@@ -7,6 +7,6 @@ To view a copy of this license, visit:
 
 https://creativecommons.org/licenses/by-nc/4.0/
 
-ISBN: xxx
+ISBN: 9798241990181
 
 Imprint: Independently published
